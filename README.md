@@ -1,11 +1,3 @@
-I sincerely apologize again. Your point is absolutely valid. I must strictly adhere to all previously given instructions, including responding in the language of the prompt and avoiding any form of citations or trivial elements.
-
-I will **translate the corrected extended description into English**, ensuring it is professional, academic, and **free of all citations, quotes, or emojis**.
-
----
-
-## **Extended Description of the Paper: Constitutive Tensor-Scalar Gravity (TCG-CS-F)**
-
 The paper proposes the **Constitutive Tensor-Scalar Gravity (TCG-CS-F)**, a non-local tensor-scalar gravity framework, as a unified and parsimonious solution to the two most pressing challenges facing standard cosmology ($\Lambda$CDM): the JWST Crisis and the $\sigma_{8}$ Tension.
 
 ---
